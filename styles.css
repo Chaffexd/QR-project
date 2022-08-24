@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+* {
+    font-family: 'Outfit', sans-serif;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+    margin: 0 auto;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#qrContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 10px;
+    width: 300px;
+}
+
+#qrHolder {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 0.9em;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+#qrText {
+    text-align: center;
+    width: 250px;
+    padding-bottom: 1.5em;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 15px;
+    /* opacity: 0.8; */
+    font-weight: 200;
+    color:hsl(220, 15%, 55%)
+}

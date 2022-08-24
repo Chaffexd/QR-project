@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4893635935",
+    "project_id": "onesignal-app-d5fa3",
+    "storage_bucket": "onesignal-app-d5fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4893635935:android:712b52a159fcd2abcc32ea",
+        "android_client_info": {
+          "package_name": "chaffexd.github.io.onesignalpushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4893635935-nsqjuj6isvq2hrp9908affbnm1i3jsjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpNdwkMWNhBxOdlmbwPjjNw-V4WlOnPwU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4893635935-nsqjuj6isvq2hrp9908affbnm1i3jsjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
